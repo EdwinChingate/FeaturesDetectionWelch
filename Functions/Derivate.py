@@ -1,3 +1,4 @@
+import numpy as np
 def Derivate(RTVec,IntVec):
     #RTord=ChromData[:,0].argsort()
     #RTVec=ChromData[:,0][RTord]
